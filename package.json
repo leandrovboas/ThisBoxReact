@@ -1,6 +1,9 @@
 {
-  "name": "this-box",
-  "version": "0.1.0",
+  "name": "ThisBoxReact",
+  "version": "1.0.0",
+  "engines": {
+    "react": "16.8.6"
+  },
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
